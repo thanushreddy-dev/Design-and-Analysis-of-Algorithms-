@@ -1,4 +1,3 @@
-1)Hash Table Using Linear Probing:
 #include <iostream>
 using namespace std;
 #define SIZE 10
